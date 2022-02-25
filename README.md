@@ -20,7 +20,7 @@ Welcome to my Github profile. Feel free to fork, clone, contribute or just say h
 
 ## 🚀 About Me
 
-Full Stack Developer & DevOps Management.Graduated in sound engineering and working as full stack developer.
+Full Stack Developer & DevOps Management. Graduated in sound engineering and working as full stack developer.
 
 
 ## 👩‍💻 I'm currently working on...
