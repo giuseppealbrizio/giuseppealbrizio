@@ -53,3 +53,9 @@ DM me or email to: g.albrizio@gmail.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppealbrizio)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/galbrizio)
+
+## Feel free to support my projects
+
+If you found any of these projects useful, please consider supporting me by buying me a coffee! Your support will help me to keep creating more useful content and improving this project.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/galbrizio)
