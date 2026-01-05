@@ -1,61 +1,37 @@
-<!--
-**giuseppealbrizio/giuseppealbrizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi there, I'm Giuseppe! 🙋🏻‍♂️
 
-Welcome to my Github profile. Feel free to fork, clone, contribute or just say hi 👋
+Senior Node.js developer building financial systems. Currently exploring what it means to be a developer when AI writes most of the code.
 
-## 🚀 About Me
+## 🔧 What I Do
 
-Full Stack Developer & DevOps Management. Graduated in sound engineering and working as full stack developer.
+**Production:** Node.js · MongoDB · Express · Mongoose @ Skeldon
 
+**Exploring:** Python · FastAPI · LangChain · AI-assisted workflows
 
-## 👩‍💻 I'm currently working on...
+## 🧠 Current Focus
 
-SOA business application
+Transitioning from "how do I write this" to "should this exist at all" — the **Software Engineer 3.0** mindset. Less typing, more thinking.
 
-EMS application for small business
+- 📚 100 Python scripts journey (2025)
+- 🛠️ AI toolstack: Claude Code · GitHub Copilot · Codex CLI
+- ✍️ Building educational resources on AI-assisted development
 
-IAM in WEB3 context 
+## 💡 Philosophy
 
+- Small diffs, reliable reviews
+- Generation-verification loops over blind trust
+- Quality gates are non-negotiable (lint, tests, security, types)
+- Fundamentals help you *verify* AI output, not compete with it
 
-## 🍺 Looking to collaborate on...
+## 🎛️ Background
 
-Any project using: 
+Graduated in sound engineering \ still shapes how I think about signal, noise, and clean output.
 
-- Node.JS
-- Solidity
-- Kubernetes
-- API's
-- GCP services
-- React
-- React Native
-
-## 📫 How to reach me...
-
-DM me or email to: g.albrizio@gmail.com
-## 🔗 Links
-[![medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giuseppealbrizio)
+## 📫 Reach Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppealbrizio)
+[![twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/galbrizio)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/galbrizio)
+---
 
-## Feel free to support my projects
-
-If you found any of these projects useful, please consider supporting me by buying me a coffee! Your support will help me to keep creating more useful content and improving this project.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/galbrizio)
+*"The gap isn't AI getting smarter — it's humans learning slower."*
